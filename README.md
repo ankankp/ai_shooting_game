@@ -41,9 +41,9 @@ An advanced **Bullet Hell Space Shooter** built using **Python & Pygame**, featu
 
 *  Leaderboard & High Score Saving
 
-* ⏸ Pause System
+* Pause System
 
-* 🎚 Difficulty Modes
+* Difficulty Modes
 
   * Easy
   * Normal
@@ -160,11 +160,10 @@ python make_sound.py
 
 ## Screenshots
 
-*Add your gameplay screenshots here*
-<img width="1202" height="948" alt="Screenshot 2026-02-05 160635" src="https://github.com/user-attachments/assets/2fb52923-6516-4f4f-8981-22b4b3f28d1b" />
+*Add your gameplay screenshots here
 <img width="1202" height="948" alt="Screenshot 2026-02-05 160635" src="https://github.com/user-attachments/assets/2fb52923-6516-4f4f-8981-22b4b3f28d1b" />
 <img width="1202" height="948" alt="Screenshot 2026-02-05 160705" src="https://github.com/user-attachments/assets/9ae458c9-ce8d-4bb7-bbe2-78c35f14d270" />
-<img width="1202" height="948" alt="Screenshot 2026-02-05 160705" src="https://github.com/user-attachments/assets/9ae458c9-ce8d-4bb7-bbe2-78c35f14d270" />
+
 
 ---
 
@@ -175,13 +174,14 @@ python make_sound.py
 * Mobile port
 * More boss mechanics
 * Advanced RL training
+*sprites
 
 ---
 
 ## Author
 
 **Ankan Kumar Panja**
-CSE Student | Game Dev | ML Enthusiast
+CSE Student | Game Dev | ML Enthusiast | Web Developer 
 
 ---
 
