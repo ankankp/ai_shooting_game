@@ -98,7 +98,7 @@ Key components:
 ###  Clone the repo
 
 ```bash
-git clone https://github.com/ankankp007/bullet-hell-shooter.git
+git clone https://github.com/ankankp/bullet-hell-shooter.git
 cd bullet-hell-shooter
 ```
 
